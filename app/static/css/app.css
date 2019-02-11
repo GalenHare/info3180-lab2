@@ -1,3 +1,22 @@
 body {
-    padding-top: 5rem;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
 }
+
+.head{
+  font-size: 50px;
+}
+
+.stat{
+  display: inline-block;
+  padding: 25px;
+}
+
+#profilepic{
+  height: 128px;
+  width: 128px;
+  border-radius: 50%;
+}
+
