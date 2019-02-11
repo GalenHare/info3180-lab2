@@ -4,12 +4,26 @@ body {
   padding-top:100px;
   text-align: center;
 }
-
+h3{
+  text-shadow: 1px 1.5px #000000;
+}
 .head{
   background: radial-gradient(circle, #56ab2f, #a8e063);
   padding-top: 40px;
   border-radius: 20px;
   color: white;
+}
+
+.headText{
+   padding-top: 0px;
+}
+
+button{
+  background-color: rgb(126, 211, 33);
+  border-radius: 10px;
+  width: 140px;
+  color: white;
+  border:none;
 }
 
 .stat{
